@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @lucanders
-- 👀 I’m interested in Python, Full-Stack
-- 🌱 I’m currently learning GitHub
+- 👋 Hi, I’m @lucanders! This is my profile.
+- 👀 I’m interested in Python, Full-Stack, Blockchain, and Cryptocurrency
+- 🌱 I’m currently learning WP Development
 
 <!---
 lucanders/lucanders is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
